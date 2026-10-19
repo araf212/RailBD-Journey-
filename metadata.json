@@ -1,0 +1,6 @@
+{
+  "name": "RailBD Journey - Bangladesh Railway Simulator",
+  "description": "Interactive 2D pixel-art railway journey simulator inspired by Tiny Rails, traversing authentic Bangladesh landscapes with dynamic weather, synchronized route map, and simulation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
